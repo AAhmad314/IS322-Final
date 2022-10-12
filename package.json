@@ -9,7 +9,7 @@
   "dependencies": {
     "native-base": "^2.11.0",
     "react": "16.6.3",
-    "react-native": "0.58.4",
+    "react-native": "0.70.2",
     "react-native-cli": "^2.0.1",
     "react-native-datepicker": "^1.7.2",
     "react-native-fbsdk": "^1.1.2",
